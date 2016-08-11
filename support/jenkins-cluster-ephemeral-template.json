@@ -440,12 +440,12 @@
         {
             "name": "GIT_URI",
             "description": "Git Repository",
-            "value": "https://github.com/promuks/ose-jenkins-cluster.git"
+            "value": "https://github.com/ghyde/ose-jenkins-cluster.git"
         },
         {
             "name": "GIT_REF",
             "description": "Git Branch",
-            "value": "master"
+            "value": "ssl"
         },
         {
             "name": "EXECUTORS",
